@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "updated": "2026-03-12",
+  "notes": "Sample watchlist — add 100-150 liquid US equities across sectors for best results.",
+  "symbols": [
+    {"symbol": "AAPL", "sector": "Technology"},
+    {"symbol": "NVDA", "sector": "Technology"},
+    {"symbol": "MSFT", "sector": "Technology"},
+    {"symbol": "AMZN", "sector": "Consumer Discretionary"},
+    {"symbol": "JPM", "sector": "Financials"},
+    {"symbol": "XOM", "sector": "Energy"},
+    {"symbol": "UNH", "sector": "Healthcare"},
+    {"symbol": "HD", "sector": "Consumer Discretionary"},
+    {"symbol": "CAT", "sector": "Industrials"},
+    {"symbol": "NEE", "sector": "Utilities"}
+  ]
+}

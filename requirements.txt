@@ -1,0 +1,9 @@
+aiohttp
+pandas
+pandas-ta
+python-dotenv
+anthropic
+pydantic
+google-genai
+pytest
+pytest-asyncio
