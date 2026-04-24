@@ -1,0 +1,16 @@
+.env
+.git
+.gitignore
+.pytest_cache
+__pycache__
+*.pyc
+*.pyo
+data/.ts_token
+data/.ts_auth_date
+data/*.db
+logs/
+venv/
+.venv/
+.vscode/
+.idea/
+.DS_Store

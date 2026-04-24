@@ -1,0 +1,36 @@
+# Credentials and secrets
+.env
+data/.ts_token
+data/.ts_auth_date
+
+# Database
+data/*.db
+
+# Runtime state
+
+# Logs
+logs/
+
+# Pytest
+.pytest_cache/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

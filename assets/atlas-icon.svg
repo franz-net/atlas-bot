@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="95" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+
+  <!-- Upward price bars (candlestick-like) -->
+  <rect x="40" y="110" width="8" height="40" rx="1" fill="#3b82f6" opacity="0.5"/>
+  <rect x="56" y="95" width="8" height="55" rx="1" fill="#3b82f6" opacity="0.6"/>
+  <rect x="72" y="105" width="8" height="45" rx="1" fill="#3b82f6" opacity="0.7"/>
+  <rect x="88" y="80" width="8" height="70" rx="1" fill="#3b82f6" opacity="0.8"/>
+  <rect x="104" y="70" width="8" height="80" rx="1" fill="#3b82f6" opacity="0.85"/>
+  <rect x="120" y="55" width="8" height="95" rx="1" fill="#3b82f6" opacity="0.9"/>
+  <rect x="136" y="45" width="8" height="105" rx="1" fill="#3b82f6" opacity="0.95"/>
+  <rect x="152" y="35" width="8" height="115" rx="1" fill="#3b82f6"/>
+
+  <!-- Trend line -->
+  <line x1="35" y1="130" x2="165" y2="42" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round" opacity="0.9"/>
+
+  <!-- AI brain/node network -->
+  <circle cx="65" cy="55" r="4" fill="#f97316" opacity="0.9"/>
+  <circle cx="100" cy="40" r="5" fill="#f97316"/>
+  <circle cx="135" cy="50" r="4" fill="#f97316" opacity="0.9"/>
+  <circle cx="82" cy="35" r="3" fill="#f97316" opacity="0.7"/>
+  <circle cx="118" cy="32" r="3" fill="#f97316" opacity="0.7"/>
+
+  <!-- Neural connections -->
+  <line x1="65" y1="55" x2="82" y2="35" stroke="#f97316" stroke-width="1" opacity="0.4"/>
+  <line x1="82" y1="35" x2="100" y2="40" stroke="#f97316" stroke-width="1" opacity="0.4"/>
+  <line x1="100" y1="40" x2="118" y2="32" stroke="#f97316" stroke-width="1" opacity="0.4"/>
+  <line x1="118" y1="32" x2="135" y2="50" stroke="#f97316" stroke-width="1" opacity="0.4"/>
+  <line x1="65" y1="55" x2="100" y2="40" stroke="#f97316" stroke-width="1" opacity="0.3"/>
+  <line x1="100" y1="40" x2="135" y2="50" stroke="#f97316" stroke-width="1" opacity="0.3"/>
+
+  <!-- Shield (risk protection) -->
+  <path d="M100 155 L88 162 L88 172 Q88 180 100 185 Q112 180 112 172 L112 162 Z"
+        fill="none" stroke="#22c55e" stroke-width="2" opacity="0.8"/>
+  <path d="M96 170 L100 174 L106 166" fill="none" stroke="#22c55e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
+</svg>
